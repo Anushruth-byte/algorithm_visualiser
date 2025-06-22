@@ -56,4 +56,6 @@ An interactive **React.js-based** web application for visualizing and learning f
    ```bash
    git clone https://github.com/your-username/algo-visualizer.git
    cd algo-visualizer
+   npm start
+   npm install
    
